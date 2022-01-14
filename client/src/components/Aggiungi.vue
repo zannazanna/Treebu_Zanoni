@@ -151,7 +151,7 @@ export default {
         terreno: "",
         irrigazione: "",
         offerta: "",
-        canone: "",
+        canone: 0,
         disponibile: false,
       },
       modify: false,
@@ -160,7 +160,7 @@ export default {
   methods: {
     async conferma() {
                 console.log("crea")
-
+                
       await axios.post("http://127.0.0.1:8000/api/create", this.land);
       alert("la land è stata creata");
       this.$router.push("/home");

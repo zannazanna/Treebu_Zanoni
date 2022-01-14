@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-col">
     <div class="flex flex-row justify-center items-center p-5">
-      <p>ordina per prezzo:</p>
+      <p>ordina per dimensione:</p>
       <button
         class="bg-blue-900 hover:bg-blue-500 text-white px-4 py-2 rounded cursor-pointer mx-5"
         @click="ordineDimensione('ASC')"
