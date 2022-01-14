@@ -40,3 +40,6 @@ Per aggiungere un nuovo terreno si potrà premere su pulsante aggiungi e inserir
 Proseguendo si potranno aggiungere nuovi terreni,
 modificarli una volta che premi modifica, verrai reindirezzato nella stessa pagine per aggiungere un nuovo terren ma i dati in input saranno già popolati.
 Inoltre si potrà osservare nel dettaglio un terreno ed ordinarli in base alla dimensione.
+
+NOTE
+Ho messo un location.reload() all'interno della navbar per forzare il refresh della pagina, perchè quando si è all'interno della route modifica e si vuole aggiungere un nuovo terreno, all'interno del input non cambiano i valori.

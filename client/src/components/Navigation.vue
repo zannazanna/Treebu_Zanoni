@@ -24,7 +24,7 @@ export default {
     methods: {
         goto(link){
             this.$router.push(link)
-           // location.reload()
+            location.reload()
         }
     },
 
