@@ -1,4 +1,5 @@
 PER AVVIARE IL PROGETTO:
+0. importare il progetto da git hub
 1. creare un nuovo database su xampp chiamato treebu
 2. aprire un terminale, entrare nella cartella server e digitare: composer install, php artisan migrate e php artisan serve
 3. aprire un nouvo terminale, entrare nella cartella client e digitare: npm install, npm run serve
