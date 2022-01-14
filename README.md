@@ -7,4 +7,6 @@ PER AVVIARE IL PROGETTO:
 PROGETTO    
 Una volta avviato il progetto ed essere andati sul localhost, ci si troverà nella home di treebu, sarà visibile solamente la navbar con i tasti home e aggiungi, perchè non vi è ancora niente all'interno del satabse.
 Per aggiungere un nuovo terreno si potrà premere su pulsante aggiungi e inserire i valori, vi sarà un campo nascosto fino a che non verrà scelta il tipo di offerta, se l'offerta sarà di affitto o vendita comparirà il campo canone, mentre se l'offerta sarà ad affido gratuito il campo non verrà richiesto. Una volta creato un nuovo terreno si verrà riportati alla home, verranno mostrati tutti i terreni ordinati in base alla data di pubblicazione.
-Proseguendo si potranno aggiungere nuovi terreni, modificarli, ordinarli in base alla dimensione.
+Proseguendo si potranno aggiungere nuovi terreni,
+modificarli una volta che premi modifica, verrai reindirezzato nella stessa pagine per aggiungere un nuovo terren ma i dati in input saranno già popolati.
+Inoltre si potrà osservare nel dettaglio un terreno ed ordinarli in base alla dimensione.
